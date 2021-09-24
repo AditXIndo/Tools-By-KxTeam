@@ -8,6 +8,8 @@ import time
 import os
 
     def usage( ) :
+           print  " ========================== "
+           print  "     DDOS - TOOLS - BY-S̵̈́̓U̸̿̈́T̴̿͆E̵͛̒J̴̽͘O̴͑̿    "
            print  " iii III III        IIII III III            IIIIIIIIII "
            print  " III III   III      III  III     III     III          III "
            print  " III III     III    III  III        III  III          III "
@@ -43,11 +45,3 @@ import os
 
 if __name__ == '__main__':
     main()
-
-    except KeyboardInterrupt:
-        os.system('cls' if os.name == 'nt' else 'clear')
-        print '************************'
-        print '** DDOS TOOLS S̵̈́̓U̸̿̈́T̴̿͆E̵͛̒J̴̽͘O̴͑̿ **'
-        print '************************'
-        print '\n\n'
-        print ('KENA MENTAL {}').format(orgip)
