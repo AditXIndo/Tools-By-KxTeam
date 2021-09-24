@@ -7,7 +7,7 @@ import random
 import time
 import os
 
-      def usage() :
+      def usage():
            print  " ========================== "
            print  "     DDOS - TOOLS - BY-S̵̈́̓U̸̿̈́T̴̿͆E̵͛̒J̴̽͘O̴͑̿    "
            print  " iii III III        IIII III III            IIIIIIIIII "
